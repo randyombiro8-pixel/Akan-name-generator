@@ -4,10 +4,10 @@
 A web application that calculates your day of birth and assigns you a traditional Ghanaian Akan name based on your gender. In Ghanaian culture, children are named based on the day of the week they were born. This project demonstrates core web development skills including form validation, date manipulation, and DOM interaction.
 
 ## 👨‍💻 Author Information
-**Your Name**  
-- GitHub: [@your-username](https://github.com/your-username)  
-- Email: your.email@example.com  
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+**Randy Ombiro**  
+- GitHub: [ 
+- Email:randyombiro3@gmail.com
+  
 
 ## 🛠️ Setup Instructions
 
