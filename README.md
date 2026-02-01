@@ -5,7 +5,7 @@ A web application that calculates your day of birth and assigns you a traditiona
 
 ## 👨‍💻 Author Information
 **Randy Ombiro**  
-- GitHub: [ 
+- GitHub: [ https://github.com/randyombiro8-pixel ]
 - Email:randyombiro3@gmail.com
   
 
